@@ -9,4 +9,4 @@ Set up your machine by [installing Anaconda](https://www.anaconda.com/download/)
 
 Also, [take the survery here](https://goo.gl/forms/T6EBefwNIvG4EiAN2)
 
-Lastly, send an email your your instructor (denisvrdoljak at berkeley dot edu), and introduce yourself. (1 pragraph max, please)
+Lastly, send an email your your instructor (dvrdoljak at scu dot edu), and introduce yourself. (1 pragraph max, please)
