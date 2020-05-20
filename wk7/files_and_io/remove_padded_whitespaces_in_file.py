@@ -6,3 +6,7 @@ Created on Tue May 19 18:39:07 2020
 @author: denisvrdoljak
 """
 
+import sys
+
+for line in sys.stdin:
+    print(line.strip())
